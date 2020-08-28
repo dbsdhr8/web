@@ -6,3 +6,14 @@ javascript & jQuery로
 
 WEBAPP : jQueryMobile, React.js, Vue.js
 
+react공부하기
+Vue공부하기
+nodejs공부하기
+cordova 공부하기
+phonegap 공부하기
+
+php공부하기
+]mysql공부하기
+git 공부하기
+java 공부하기
+jsp공부하기
